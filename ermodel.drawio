@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T08:34:07.960Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2AzqK4WKJgICW6fJbH_Y" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T09:04:19.488Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="racSmhWPRfPydVm1ex4t" version="13.10.9" type="github">
   <diagram id="23g7w65ID6y2XJE2tCmG" name="Page-1">
     <mxGraphModel dx="1186" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
         <mxCell id="morqwsItGRwK7Hv--RgN-123" value="cart_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="morqwsItGRwK7Hv--RgN-121" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="morqwsItGRwK7Hv--RgN-133" value="order" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="morqwsItGRwK7Hv--RgN-133" value="checkout" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="450" width="180" height="280" as="geometry" />
         </mxCell>
         <mxCell id="morqwsItGRwK7Hv--RgN-134" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="morqwsItGRwK7Hv--RgN-133" vertex="1">
@@ -238,7 +238,7 @@
         <mxCell id="morqwsItGRwK7Hv--RgN-135" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="morqwsItGRwK7Hv--RgN-134" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="morqwsItGRwK7Hv--RgN-136" value="order_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="morqwsItGRwK7Hv--RgN-134" vertex="1">
+        <mxCell id="morqwsItGRwK7Hv--RgN-136" value="checkout_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="morqwsItGRwK7Hv--RgN-134" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3ub1IACBx7OZ4HvjgSSi-48" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="morqwsItGRwK7Hv--RgN-133" vertex="1">
@@ -256,7 +256,7 @@
         <mxCell id="3ub1IACBx7OZ4HvjgSSi-52" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="3ub1IACBx7OZ4HvjgSSi-51" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3ub1IACBx7OZ4HvjgSSi-53" value="date" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="3ub1IACBx7OZ4HvjgSSi-51" vertex="1">
+        <mxCell id="3ub1IACBx7OZ4HvjgSSi-53" value="create_date" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="3ub1IACBx7OZ4HvjgSSi-51" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3ub1IACBx7OZ4HvjgSSi-55" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="morqwsItGRwK7Hv--RgN-133" vertex="1">
